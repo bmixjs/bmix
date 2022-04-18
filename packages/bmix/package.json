@@ -37,7 +37,7 @@
     "@types/lodash": "4.14.181",
     "chalk": "4.1.2",
     "find-up": "6.3.0",
-    "fs-extra": "10.0.1",
+    "fs-extra": "10.1.0",
     "lodash": "4.17.21",
     "pirates": "4.0.5",
     "webpack-5-chain": "8.0.0"
