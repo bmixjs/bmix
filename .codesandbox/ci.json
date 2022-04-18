@@ -1,0 +1,6 @@
+{
+  "buildCommand": "build",
+  "sandboxes": ["/examples/boilerplate"],
+  "node": "14",
+  "silent": true
+}

@@ -1,0 +1,15 @@
+{
+  "exclude": ["**/dist/**"],
+  "include": ["."],
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "jsx": "react",
+    "types": ["@types/jest", "jest-playwright-preset", "expect-playwright"],
+    "paths": {}
+  }
+}

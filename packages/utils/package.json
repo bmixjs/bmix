@@ -1,0 +1,36 @@
+{
+  "name": "bmix-utils",
+  "version": "0.0.0-canary.0",
+  "description": "bmix-utils",
+  "keywords": [
+    "bmix"
+  ],
+  "homepage": "https://github.com/bmixjs/bmix#readme",
+  "bugs": {
+    "url": "https://github.com/bmixjs/bmix/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmixjs/bmix.git"
+  },
+  "license": "MIT",
+  "author": "Zack <mwl@live.com> (https://github.com/loyep)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "compiled"
+  ],
+  "scripts": {
+    "build": "pnpm tsc",
+    "dev": "pnpm build -- --watch"
+  },
+  "devDependencies": {
+    "fast-glob": "3.2.11",
+    "globby": "11.1.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}

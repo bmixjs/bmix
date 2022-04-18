@@ -1,0 +1,8 @@
+**/node_modules
+**/dist
+/packages/*/tsconfig.tsbuildinfo
+.DS_Store
+install-state.gz
+*.log
+.idea
+**/.bmix

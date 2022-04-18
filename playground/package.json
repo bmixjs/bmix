@@ -1,0 +1,12 @@
+{
+  "name": "bmix-playground",
+  "private": true,
+  "devDependencies": {
+    "bmix": "latest"
+  },
+  "scripts": {
+    "dev": "bmix dev",
+    "build": "bmix build",
+    "start": "bmix start"
+  }
+}

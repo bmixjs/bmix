@@ -1,0 +1,10 @@
+{
+  "automerge": false,
+  "commitMessageAction": "Bump",
+  "commitMessageExtra": "to {{newValue}}",
+  "commitMessageTopic": "{{depName}}",
+  "extends": ["config:base", ":disableDependencyDashboard"],
+  "ignoreDeps": ["@types/react", "@types/react-dom", "zx", "chalk", "globby"],
+  "ignorePaths": ["fixtures", "test/"],
+  "packageRules": []
+}

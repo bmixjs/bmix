@@ -1,0 +1,8 @@
+{
+  "deps": ["chalk", "lodash", "fs-extra", "pirates", "webpack-5-chain"],
+  "externals": {
+    "chalk": "$$LOCAL",
+    "lodash": "$$LOCAL",
+    "fs-extra": "$$LOCAL"
+  }
+}
