@@ -60,7 +60,7 @@
     "jest": "27.5.1",
     "jest-playwright-preset": "1.7.0",
     "lerna": "4.0.0",
-    "lint-staged": "12.3.7",
+    "lint-staged": "12.3.8",
     "only-allow": "1.1.0",
     "playwright-chromium": "1.21.0",
     "prettier": "2.6.2",
