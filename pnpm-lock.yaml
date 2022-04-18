@@ -26,7 +26,7 @@ importers:
       jest: 27.5.1
       jest-playwright-preset: 1.7.0
       lerna: 4.0.0
-      lint-staged: 12.3.7
+      lint-staged: 12.3.8
       only-allow: 1.1.0
       playwright-chromium: 1.21.0
       prettier: 2.6.2
@@ -65,7 +65,7 @@ importers:
       jest: 27.5.1_ts-node@10.7.0
       jest-playwright-preset: 1.7.0_jest@27.5.1
       lerna: 4.0.0
-      lint-staged: 12.3.7
+      lint-staged: 12.3.8
       only-allow: 1.1.0
       playwright-chromium: 1.21.0
       prettier: 2.6.2
@@ -7831,8 +7831,8 @@ packages:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}
     dev: true
 
-  /lint-staged/12.3.7:
-    resolution: {integrity: sha512-/S4D726e2GIsDVWIk1XGvheCaDm1SJRQp8efamZFWJxQMVEbOwSysp7xb49Oo73KYCdy97mIWinhlxcoNqIfIQ==}
+  /lint-staged/12.3.8:
+    resolution: {integrity: sha512-0+UpNaqIwKRSGAFOCcpuYNIv/j5QGVC+xUVvmSdxHO+IfIGoHbFLo3XcPmV/LLnsVj5EAncNHVtlITSoY5qWGQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     hasBin: true
     dependencies:
