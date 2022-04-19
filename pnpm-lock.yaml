@@ -5,7 +5,7 @@ importers:
   .:
     specifiers:
       '@playwright/test': 1.21.0
-      '@pnpm/lockfile-file': 5.0.0
+      '@pnpm/lockfile-file': 5.0.1
       '@pnpm/logger': 4.0.0
       '@swc/core': 1.2.168
       '@types/jest': 27.4.1
@@ -44,7 +44,7 @@ importers:
       zx: 4.3.0
     devDependencies:
       '@playwright/test': 1.21.0
-      '@pnpm/lockfile-file': 5.0.0_@pnpm+logger@4.0.0
+      '@pnpm/lockfile-file': 5.0.1_@pnpm+logger@4.0.0
       '@pnpm/logger': 4.0.0
       '@swc/core': 1.2.168
       '@types/jest': 27.4.1
@@ -2283,26 +2283,26 @@ packages:
       - utf-8-validate
     dev: true
 
-  /@pnpm/constants/6.0.0:
-    resolution: {integrity: sha512-r/DDueDU2rskc8yhMYLCqgY0ttaWRxJEvg+bLvUYINCTzJmirsVtPcEgRnNORKYO0trbF+BWB69N435HhHPBcA==}
+  /@pnpm/constants/6.1.0:
+    resolution: {integrity: sha512-L6AiU3OXv9kjKGTJN9j8n1TeJGDcLX9atQlZvAkthlvbXjvKc5SKNWESc/eXhr5nEfuMWhQhiKHDJCpYejmeCQ==}
     engines: {node: '>=14.19'}
     dev: true
 
-  /@pnpm/error/3.0.0:
-    resolution: {integrity: sha512-47anCwsVA6Wrbh1niHpNYctA5w4UG0kFBiO+PaQzpYfxoC1Fo+UuTyyUukfjA1/GJBkO7z+dWiJ+HMMR8A+jJg==}
+  /@pnpm/error/3.0.1:
+    resolution: {integrity: sha512-hMlbWbFcfcfolNfSjKjpeaZFow71kNg438LZ8rAd01swiVIYRUf/sRv8gGySru6AijYfz5UqslpIJRDbYBkgQA==}
     engines: {node: '>=14.19'}
     dependencies:
-      '@pnpm/constants': 6.0.0
+      '@pnpm/constants': 6.1.0
     dev: true
 
-  /@pnpm/lockfile-file/5.0.0_@pnpm+logger@4.0.0:
-    resolution: {integrity: sha512-bB/fVQH2/c597jshbLbQjVEFjPBcUIm8JDxgN+adfz1BlurLafC+bQn/pHObPxpixV+ThRs7sRik9nufa7SUgw==}
+  /@pnpm/lockfile-file/5.0.1_@pnpm+logger@4.0.0:
+    resolution: {integrity: sha512-eziBEkmfP6b/vBtaPIpp9f5DIAE/vcl/cN6REDLCWQNycNq7pBgnYgwRpKH2Ju6B+rD8mIzc4p+05JFPoSsL+g==}
     engines: {node: '>=14.19'}
     peerDependencies:
       '@pnpm/logger': ^4.0.0
     dependencies:
-      '@pnpm/constants': 6.0.0
-      '@pnpm/error': 3.0.0
+      '@pnpm/constants': 6.1.0
+      '@pnpm/error': 3.0.1
       '@pnpm/lockfile-types': 4.0.0
       '@pnpm/logger': 4.0.0
       '@pnpm/merge-lockfile-changes': 3.0.0
