@@ -77,7 +77,7 @@
     "webpack": "5.72.0",
     "zx": "4.3.0"
   },
-  "packageManager": "pnpm@6.32.10",
+  "packageManager": "pnpm@7.3.0",
   "engines": {
     "node": ">=14",
     "pnpm": ">=6.20.0"
