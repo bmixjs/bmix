@@ -41,7 +41,7 @@
     "@playwright/test": "1.21.1",
     "@pnpm/lockfile-file": "5.0.1",
     "@pnpm/logger": "4.0.0",
-    "@swc/core": "1.2.171",
+    "@swc/core": "1.2.205",
     "@types/jest": "27.4.1",
     "@types/node": "17.0.24",
     "@types/react": "^18.0.1",
