@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@playwright/test": "1.21.1",
-    "@pnpm/lockfile-file": "5.0.1",
+    "@pnpm/lockfile-file": "5.1.2",
     "@pnpm/logger": "4.0.0",
     "@swc/core": "1.2.171",
     "@types/jest": "27.4.1",
